@@ -180,6 +180,10 @@ p {
   padding: 1rem;
 }
 
+.experience {
+  margin-top: 8rem;
+}
+
 hr {
   border: none;
   background-color: lightslategray;
