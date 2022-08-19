@@ -45,7 +45,7 @@ body {
 
 
 h1,h2, h3,
-p, li, i {
+p, li {
   color: var(--text-color);
 }
 
@@ -169,7 +169,6 @@ a {
 
 i {
   margin-right: 0.2em;
-  color: #eee;
 }
 
 p {
